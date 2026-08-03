@@ -1,0 +1,30 @@
+package practic;
+
+public class SumOfEven {
+	public static int sum(int n) {
+		int s=0;
+		for(int i=0;i<n;i++) {
+			if(n%2==0) {
+				s +=i;
+			}
+		}
+		return s;
+	}
+	public static int sumOfOdd(int n) {
+		int odd=0;
+		for(int i=0;i<n;i++) {
+			if(n%2 != 0) {
+				odd += i;
+			}
+		}
+		return odd;
+	}
+public static void main(String[] args) {
+	int sumE=sum(100);
+	System.out.println("sum of Even number-->"+sumE);
+	int odd1=sumOfOdd(100);
+	System.out.println("sum of odd number -->"+ odd1);
+	
+
+}
+}

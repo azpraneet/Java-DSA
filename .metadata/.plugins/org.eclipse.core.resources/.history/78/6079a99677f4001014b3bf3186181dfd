@@ -1,0 +1,24 @@
+
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+public class Demo {
+	public static void main(String[] args) {
+	String str="Hello world";
+	String occur = str.toLowerCase();
+	char[] chars = occur.toCharArray();
+	Map<Character, Integer> map=new HashMap<Character, Integer>();
+	for(char ch:chars) {
+		if(!map.containsKey(ch)) {
+			map.put(ch, 1);
+		}else {
+			Integer value = map.get(ch);
+			map.put(ch, value+1);
+		}
+	}
+	System.out.println(map);
+	
+	}
+}

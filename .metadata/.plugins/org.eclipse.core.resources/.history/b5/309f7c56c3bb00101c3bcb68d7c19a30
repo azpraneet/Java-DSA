@@ -1,0 +1,20 @@
+
+public class Palindrom {
+	public static void main(String[] args) {
+		String s="land";
+		int left=0;
+		int right=s.length()-1;
+		boolean isPalendrom=false;
+		for(int i=0;i<s.length();i++) {
+			if(s.charAt(left) == s.charAt(right)) {
+				isPalendrom=true;
+					break;
+			}else {
+				isPalendrom=false;
+			}
+			left++;
+			right--;
+		}
+		System.out.println(isPalendrom);
+	}
+}

@@ -1,0 +1,27 @@
+
+Sep 30, 2025 15:16:32.60 NEW SESSION
+Sep 30, 2025 15:16:32.65 [4100:12496:0930/151632.601:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Sep 30, 2025 15:16:33.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 30, 2025 15:16:55.11 [4100:12496:0930/151655.116:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Sep 30, 2025 15:17:48.90 [4100:12496:0930/151748.907:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Sep 30, 2025 15:19:37.77 [4100:12496:0930/151937.773:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Sep 30, 2025 15:22:38.06 [4100:12496:0930/152238.067:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Sep 30, 2025 15:28:22.18 [4100:12496:0930/152822.180:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+Dec 11, 2025 15:21:20.26 NEW SESSION
+Dec 11, 2025 15:21:20.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 11, 2025 15:21:25.92 [4652:8984:1211/152125.921:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 06, 2026 10:47:20.21 NEW SESSION
+Apr 06, 2026 10:47:20.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2026 10:47:26.79 [23020:23288:0406/104726.789:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2026 10:47:40.54 [23020:17128:0406/104740.540:ERROR:extensions\browser\api\web_request\extension_web_request_event_router.cc:1919] AddEventListener: 0x4e9c00138a40 extension_id:  extension_name:  event_name: webViewInternal.onBeforeSendHeaders sub_event_name: webViewInternal.onBeforeSendHeaders/g3 render_process_id: 6 web_view_instance_id: 1 worker_thread_id: 0 service_worker_version_id: -1
+Apr 06, 2026 10:47:40.54 [23020:17128:0406/104740.541:ERROR:extensions\browser\api\web_request\extension_web_request_event_router.cc:1919] AddEventListener: 0x4e9c00138a40 extension_id:  extension_name:  event_name: webViewInternal.onBeforeRequest sub_event_name: webViewInternal.onBeforeRequest/g4 render_process_id: 6 web_view_instance_id: 1 worker_thread_id: 0 service_worker_version_id: -1
+Apr 06, 2026 10:47:53.71 [23020:23288:0406/104753.713:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2026 10:48:39.80 [23020:23288:0406/104839.808:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2026 10:50:29.26 [23020:23288:0406/105029.264:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2026 10:54:12.40 [23020:23288:0406/105412.406:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2026 11:02:07.89 [23020:23288:0406/110207.894:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 06, 2026 11:03:39.22 [23020:22952:0406/110339.224:ERROR:components\system_cpu\cpu_probe_win.cc:134] PdhGetFormattedCounterValue failed: Error (0x13D) while retrieving error. (0x800007D6)
+Apr 06, 2026 11:03:39.70 [23020:23288:0406/110339.703:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Apr 06, 2026 15:48:54.32 [23020:23256:0406/154854.320:ERROR:components\sync\engine\get_updates_processor.cc:270] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
